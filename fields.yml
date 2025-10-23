@@ -1,0 +1,16 @@
+ozon:
+  key: posting_number
+  required:
+    - order_dt
+    - buyer_city
+    - sku_mp
+    - qty
+    - item_sale_price
+    - payout_item
+    - fee_commission
+    - logistics_mp
+    - penalties_mp
+    - warehouse_name
+    - delivery_schema
+    - carrier
+    - status
